@@ -1,0 +1,26 @@
+{
+  "name": "expert-potato",
+  "version": "0.0.1",
+  "description": "Made this project to update myself a bit with more modern web stuff.",
+  "main": "front/entry.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DmitriiP/expert-potato.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DmitriiP/expert-potato/issues"
+  },
+  "homepage": "https://github.com/DmitriiP/expert-potato#readme",
+  "dependencies": {
+    "redux": "^3.6.0"
+  },
+  "devDependencies": {
+    "ts-loader": "^2.0.1",
+    "typescript": "^2.2.1"
+  }
+}

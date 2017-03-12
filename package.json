@@ -2,7 +2,7 @@
   "name": "expert-potato",
   "version": "0.0.1",
   "description": "Made this project to update myself a bit with more modern web stuff.",
-  "main": "front/entry.ts",
+  "main": "front/index.tsx",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/DmitriiP/expert-potato#readme",
   "dependencies": {
+    "@types/react": "^15.0.16",
+    "@types/react-dom": "^0.14.23",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
     "redux": "^3.6.0"
   },
   "devDependencies": {
